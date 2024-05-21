@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
 
@@ -23,6 +24,15 @@
 | 微調腳本 |
 | -------- |
 | [Fedora Gnome Shell](https://github.com/samwhelp/fedora-gnome-shell-adjustment/tree/main) |
+
+
+
+
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-fedora-gnome-shell/read/subject/grub.html) |
 
 
 
