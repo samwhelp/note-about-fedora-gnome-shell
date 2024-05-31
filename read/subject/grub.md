@@ -116,11 +116,18 @@ sudo grub-mkconfig -o /boot/grub2/grub.cfg
 
 ## 參考文件
 
-| GRUB  |
-| ------- |
+| GRUB Manual |
+| ----------- |
 | [Simple configuration handling](https://www.gnu.org/software/grub/manual/grub/html_node/Simple-configuration.html) |
 | [Invoking grub-mkconfig](https://www.gnu.org/software/grub/manual/grub/html_node/Invoking-grub_002dmkconfig.html#Invoking-grub_002dmkconfig) |
 | [Theme file format](https://www.gnu.org/software/grub/manual/grub/html_node/Theme-file-format.html) |
+
+
+| Fedora Docs |
+| ----------- |
+| [The GRUB2 Bootloader – Installation and Configuration](https://docs.fedoraproject.org/en-US/quick-docs/grub2-bootloader/) |
+| [Working with the GRUB 2 Boot Loader](https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/kernel-module-driver-configuration/Working_with_the_GRUB_2_Boot_Loader/) |
+| Wiki / [GRUB 2](https://fedoraproject.org/wiki/GRUB_2) |
 
 
 
