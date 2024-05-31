@@ -13,6 +13,7 @@ has_children: false
 * [如何更改GRUB佈景主題](#如何更改grub佈景主題)
 * [下載安裝](#下載安裝)
 * [設定採用](#設定採用)
+* [參考文件](#參考文件)
 * [相關筆記](#相關筆記)
 
 
@@ -113,8 +114,19 @@ sudo grub-mkconfig -o /boot/grub2/grub.cfg
 
 
 
+## 參考文件
+
+| GRUB  |
+| ------- |
+| [Simple configuration handling](https://www.gnu.org/software/grub/manual/grub/html_node/Simple-configuration.html) |
+| [Invoking grub-mkconfig](https://www.gnu.org/software/grub/manual/grub/html_node/Invoking-grub_002dmkconfig.html#Invoking-grub_002dmkconfig) |
+| [Theme file format](https://www.gnu.org/software/grub/manual/grub/html_node/Theme-file-format.html) |
+
+
+
+
 ## 相關筆記
 
 | Link | GitHub |
 | ---- | ------ |
-| [GRUB 探索筆記](https://samwhelp.github.io/note-about-grub/) | [GitHub](https://github.com/samwhelp/note-about-grub) |
+| [GRUB 探索筆記](https://samwhelp.github.io/note-about-grub/) / [Use Theme](https://samwhelp.github.io/note-about-grub/read/howto/use_theme.html) | [GitHub](https://github.com/samwhelp/note-about-grub) |
