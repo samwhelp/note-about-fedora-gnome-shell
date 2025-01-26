@@ -88,6 +88,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
 | [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubutnu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubutnu-gnome-shell) |
 | [Manjaro Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-manjaro-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-gnome-shell) |
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
