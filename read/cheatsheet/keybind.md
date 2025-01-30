@@ -74,8 +74,8 @@ parent: 一覽表
 
 | 按鍵組合           | 功能           | 執行指令           |
 | ------------------ | -------------- | ------------------ |
-| `Alt + Enter`      | 開啟 Terminal  | `gnome-terminal`  |
-| `Alt + Shift + a`  | 開啟 Terminal  | `gnome-terminal`  |
+| `Alt + Enter`      | 開啟 Terminal  | `ptyxis`  |
+| `Alt + Shift + a`  | 開啟 Terminal  | `ptyxis`  |
 | `Alt + Ctrl + a`   | 開啟 Terminal  | `sakura`           |
 | `Alt + Shift + t`  | 開啟 Terminal  | `xfce4-terminal`   |
 | `Alt + Ctrl + t`   | 開啟 Terminal  | `qterminal`        |
