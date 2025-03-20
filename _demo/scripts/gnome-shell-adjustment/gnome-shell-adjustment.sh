@@ -9,8 +9,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/note-about-ubuntu-gnome-shell/blob/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh
-## * https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh
+## * https://github.com/samwhelp/note-about-fedora-gnome-shell/blob/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh
+## * https://raw.githubusercontent.com/samwhelp/note-about-fedora-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh
 ##
 
 
