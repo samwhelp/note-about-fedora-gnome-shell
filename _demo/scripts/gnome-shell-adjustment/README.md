@@ -1,14 +1,14 @@
 
 
-# budgie-adjustment
+# gnome-shell-adjustment
 
 
 
 
 ## Link
 
-* https://github.com/samwhelp/note-about-ubuntu-budgie/blob/gh-pages/_demo/scripts/budgie-adjustment/budgie-adjustment.sh
-* https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-adjustment/budgie-adjustment.sh
+* https://github.com/samwhelp/note-about-fedora-gnome-shell/blob/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh
+* https://raw.githubusercontent.com/samwhelp/note-about-fedora-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh
 
 
 
@@ -18,26 +18,26 @@
 > run
 
 ``` sh
-bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-adjustment/budgie-adjustment.sh)
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-fedora-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh)
 ```
 
 
 > or run
 
 ``` sh
-bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-adjustment/budgie-adjustment.sh -O - )
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - )
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-adjustment/budgie-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-adjustment/budgie-adjustment.sh -O - )"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-fedora-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - )"
 ```
 
 
 > or run
 
 ``` sh
-bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-adjustment/budgie-adjustment.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-adjustment/budgie-adjustment.sh)"
+bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/note-about-fedora-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-fedora-gnome-shell/refs/heads/gh-pages/_demo/scripts/gnome-shell-adjustment/gnome-shell-adjustment.sh)"
 ```
