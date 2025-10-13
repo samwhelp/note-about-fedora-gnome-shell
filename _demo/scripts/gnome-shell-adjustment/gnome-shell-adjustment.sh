@@ -104,9 +104,9 @@ mod_gnome_shell_config_for_keybind_main () {
 
 	gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-down "[]"
 
-	gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-left "['<Alt>a', '<Alt>Left']"
+	gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-left "['<Alt>a']"
 
-	gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-right "['<Alt>s', '<Alt>Right']"
+	gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-right "['<Alt>s']"
 
 	gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-last "['<Alt>z']"
 
@@ -206,13 +206,13 @@ mod_gnome_shell_config_for_keybind_custom () {
 
 	## ### Terminal
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/name "'Terminal'"
-	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/command "'ptyxis'"
+	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/command "'ptyxis --new-window'"
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/binding "'<Alt>Return'"
 
 
 	## ### Terminal-1
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/name "'Terminal-1'"
-	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/command "'ptyxis'"
+	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/command "'ptyxis --new-window'"
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/binding "'<Shift><Alt>a'"
 
 
