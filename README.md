@@ -14,6 +14,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [相關資源](#相關資源)
 * [概覽](#概覽)
 * [如何](#如何)
 * [字型](#字型)
@@ -31,6 +32,27 @@
 | [Fedora Gnome Shell Config](https://github.com/samwhelp/fedora-gnome-shell-adjustment/tree/main) |
 | [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 | [簡易微調](https://github.com/samwhelp/fedora-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+
+
+
+
+## 相關資源
+
+| Gnome Shell Enhance |
+| ------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+
+
+| Gnome Shell Style  |
+| ------------------ |
+[make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+| Gnome Shell Layout |
+| ------------------ |
+| [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
 
 
 
@@ -93,10 +115,11 @@
 | [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
 | [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
 | [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
-| [Ultramaine Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ultramarine-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-gnome-shell) |
 | [Archlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-archlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-gnome-shell) |
+| [Voidlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-voidlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-gnome-shell) |
+| [Solus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-solus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-solus-gnome-shell) |
 | [Manjaro Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-manjaro-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-gnome-shell) |
-
+| [Ultramaine Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ultramarine-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-gnome-shell) |
 
 
 
